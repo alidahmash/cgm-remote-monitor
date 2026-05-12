@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ============================================================ -->
+  <!-- CORE PAGES                                                    -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/about</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/contact</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- SERVICES PAGES                                               -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/services</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/services/seo</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/services/ppc</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/services/content-strategy</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/services/growth-marketing</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- LOCATION / LANDING PAGES                                     -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/tampa-seo-ppc-consultant</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- TOOLS                                                        -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/website-analyzer</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- CASE STUDIES                                                  -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/case-studies</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- BLOG INDEX                                                    -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/blog</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- ============================================================ -->
+  <!-- BLOG POSTS (confirmed indexed or inferred from site content) -->
+  <!-- Update <lastmod> to actual publish/update date for each post -->
+  <!-- ============================================================ -->
+
+  <url>
+    <loc>https://www.alidahmash.com/blog/how-to-find-best-tampa-seo-expert-hiring-guide</loc>
+    <lastmod>2025-09-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.alidahmash.com/blog/google-analytics-4-complete-setup-guide-marketing</loc>
+    <lastmod>2025-08-01</lastmod>
+  </url>
+
+  <!-- ADD additional blog post URLs here as they are published -->
+  <!-- Example:
+  <url>
+    <loc>https://www.alidahmash.com/blog/your-post-slug</loc>
+    <lastmod>2026-MM-DD</lastmod>
+  </url>
+  -->
+
+</urlset>

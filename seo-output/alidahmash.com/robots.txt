@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block access to admin/private paths if any exist
+# Disallow: /admin/
+# Disallow: /api/
+
+# Sitemap location
+Sitemap: https://www.alidahmash.com/sitemap.xml
