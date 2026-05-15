@@ -1,0 +1,34 @@
+# Compass-360 AI Advisory
+
+> Compass-360 is a vendor-neutral enterprise AI advisory consultancy serving CIOs, CDOs, and CEOs in the GCC/MENA region and the United States. Founded by Ali Dahmash, Tampa FL.
+
+## Services
+
+- [AI Readiness Assessment](https://compass-360.ai/ai-readiness-assessment): Proprietary SAiGE 5-step framework that evaluates enterprise AI maturity across data, governance, culture, and technology. Delivers a clear scorecard in 48 hours.
+- [AI Strategy & Roadmap](https://compass-360.ai/ai-strategy-roadmap): End-to-end AI strategy development and multi-year roadmap for enterprise organizations aligning AI investment with business objectives.
+- [AI Advisory & Consulting](https://compass-360.ai/ai-advisory-consulting): Ongoing fractional AI advisory for C-suite leadership teams — vendor neutral, no platform commissions.
+- [AI Enablement & Governance](https://compass-360.ai/ai-enablement-governance): Enterprise AI governance frameworks aligned to ISO 42001 and NIST AI RMF. Policy design, risk management, and responsible AI adoption.
+- [Enterprise AI Training](https://compass-360.ai/enterprise-ai-training): Role-based AI literacy and upskilling programs for enterprise teams — leadership tracks and functional tracks.
+
+## Key Differentiators
+
+- Vendor-neutral: No product or platform commission relationships
+- GCC/MENA specialist: Deep expertise in UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman AI regulatory environments
+- 5-step SAiGE framework: Proprietary AI Readiness Assessment methodology
+- 48-hour turnaround: AI Readiness Assessment scorecard delivered in 48 hours
+- Right-sized for mid-market: Not a Big 4 firm — direct access to senior advisors
+
+## Founder
+
+Ali Dahmash — Founder & AI Strategy Advisor
+Location: Tampa, Florida, USA
+Serving: GCC/MENA and United States
+LinkedIn: https://www.linkedin.com/in/alidahmash
+
+## Contact
+
+https://compass-360.ai/contact
+
+## About
+
+https://compass-360.ai/about

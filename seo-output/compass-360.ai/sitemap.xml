@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Core pages -->
+  <url>
+    <loc>https://compass-360.ai/</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://compass-360.ai/about</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- Service pages -->
+  <url>
+    <loc>https://compass-360.ai/ai-readiness-assessment</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://compass-360.ai/ai-strategy-roadmap</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://compass-360.ai/ai-advisory-consulting</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://compass-360.ai/ai-enablement-governance</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <url>
+    <loc>https://compass-360.ai/enterprise-ai-training</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://compass-360.ai/contact</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url>
+
+  <!-- Utility (consider noindex for privacy-policy) -->
+  <!-- <url>
+    <loc>https://compass-360.ai/privacy-policy</loc>
+    <lastmod>2026-05-01</lastmod>
+  </url> -->
+
+</urlset>
